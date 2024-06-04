@@ -32,4 +32,4 @@ Get JSON representation of the source map:
 
 
 
-  [1]: http://http://code.google.com/p/closure-compiler/wiki/SourceMaps
+  [1]: https://github.com/google/closure-compiler/wiki/Source-Maps
